@@ -1,0 +1,82 @@
+{
+    "Teacher": [
+        {
+            "name": "Rohan",
+            "email": "rohan@gmail.com",
+            "phone": "123456789",
+            "id": 2,
+            "class teacher": "4th"
+            
+        },
+        {
+            "name": "Tina",
+            "email": "tina@gmail.com",
+            "phone": "177756789",
+            "id": 12,
+            "class teacher": "6th"
+        },
+        {
+            "name": "Sam",
+            "email": "sam@gmail.com",
+            "phone": "123458589",
+            "id": 11,
+            "class teacher": "12th"
+        },
+        {
+            "name": "Toy",
+            "email": "toy@gmail.com",
+            "phone": "177456789",
+            "id": 10,
+            "class teacher": "11th"
+        },
+        {
+            "name": "Jenny",
+            "email": "jenny@gmail.com",
+            "phone": "123458889",
+            "id": 9,
+            "class teacher": "10th"
+        },
+        {
+            "name": "James",
+            "email": "james@gmail.com",
+            "phone": "123444789",
+            "id": 8,
+            "class teacher": "9th"
+        },
+        {
+            "name": "Nikki",
+            "email": "nik@gmail.com",
+            "phone": "122546789",
+            "id": 7,
+            "class teacher": "8th"
+        },
+        {
+            "name": "Vishal",
+            "email": "vishal@gmail.com",
+            "phone": "123456798",
+            "id": 6,
+            "class teacher": "7th"
+        },
+        {
+            "name": "Raj",
+            "email": "raj@gmail.com",
+            "phone": "132456789",
+            "id": 5,
+            "class teacher": "5th"
+        },
+        {
+            "name": "Julie",
+            "email": "julie@gmail.com",
+            "phone": "213456789",
+            "id": 4,
+            "class teacher": "3th"
+        },
+        {
+            "name": "sohan",
+            "email": "sohan@gmail.com",
+            "phone": "123886789",
+            "id": 3,
+            "class teacher": "8th"
+        }
+    ]
+}
